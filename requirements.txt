@@ -1,0 +1,9 @@
+# FRAMEWORKS
+streamlit
+
+# MACHINE LEARNING
+#scikit-learn
+
+# AUTRES DEPENDANCES
+# pandas
+# numpy
